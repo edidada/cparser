@@ -8,3 +8,6 @@
 *.vcproj.*.*.user
 *.suo
 *.ncb
+
+#idea
+.idea
